@@ -8,7 +8,7 @@ Web
  - dao: 数据库的一些操作
  - logger: 日志
  - logic: 业务逻辑
- - models: 墨迹
+ - models: 模板
  - pkg: 第三方的库
  - routes: 路由
  - settings: 配置相关函数
