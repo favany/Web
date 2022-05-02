@@ -2,6 +2,7 @@ app:
   name: "web"
   mod: "dev"
   port: 8081
+  version: "v0.0.1"
 log:
   level: "debug"
   filename: "web.log"
